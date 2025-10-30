@@ -1,6 +1,6 @@
 # python stocks dashboard
 
-Interactive Python dashboard for real-time stock analysis and visualization
+# Interactive Python dashboard for real-time stock analysis and visualization
 
 import math
 import datetime as dt
